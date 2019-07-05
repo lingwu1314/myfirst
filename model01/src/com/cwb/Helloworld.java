@@ -6,7 +6,7 @@ public class Helloworld {
     public static final int i=1;
 
 /**
-*年龄
+*年龄发圣诞
 */
 private int age;
 //加入注释内容

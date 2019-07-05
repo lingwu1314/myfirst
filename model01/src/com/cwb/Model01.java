@@ -7,7 +7,7 @@ public class Model01 {
     public static void main(String[] args){
         System.out.println("Model01 ni hao");
         List lis=new ArrayList();//ctrl+d
-
+//sdfsd
         Person pser=new Person();
         pser.eat();
         lis.add(1);
