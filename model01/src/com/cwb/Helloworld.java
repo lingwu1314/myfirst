@@ -9,7 +9,7 @@ public class Helloworld {
 *年龄
 */
 private int age;
-
+//加入注释内容
     public static void  test(String sdsdf){
         System.out.println("name:"+sdsdf);
     }
